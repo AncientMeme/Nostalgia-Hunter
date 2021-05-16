@@ -569,6 +569,23 @@ p {
     margin-right: 5%;
 }
 
+#general-paragraph p {
+    margin-bottom: 1.5rem;
+}
+
+#general-insta {
+    padding: 0.5rem;
+    color: #f4f1e1;
+    background-color: #f7b05b;
+    border-radius: 8px;
+    font-size: 1.6rem;
+}
+
+#general-insta:hover {
+    color: #f7b05b;
+    background-color: #f4f1e1;
+}
+
 #team-desc {
     height: 100%;
     display: flex;

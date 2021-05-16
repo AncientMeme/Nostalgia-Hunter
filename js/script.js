@@ -20,7 +20,7 @@ function itemShowContent() {
                             "This was a clock that was designed by the Artist and History enthusaist Benjamin Douglas in 1951. It was a limited edition clock to celebrate Christopher Columbus's 500 birthday.", 
                             "One of the 1983 Brisbane Festival poster. It is slightly damage, but you can still make out most of the design.",
                             "This is one of the old number plates in Brisbane, it was before the modern design got introduced.",
-                            "This plate is made in 1861, when the pioneers were still building up.",
+                            "This plate is made in 1861, when the pioneers were still building up Australia. It is preserved in good condition,and can be used as a nice decoration.",
                             "This is a flintlock pistol found during 1940, it was considered a lucky weapon by a soldier. It is not functional now, but still holds historical value."];
 
         var items = menu.getElementsByTagName("a");
